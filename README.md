@@ -1,1 +1,1 @@
-# vendorden.github.io
+# vendorden.com
